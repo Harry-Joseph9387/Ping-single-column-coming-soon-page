@@ -6,12 +6,12 @@
 body{
     font-family: "Libre Franklin", sans-serif;
     text-align:center;
-    padding:60px;
+    padding:30px;
 }
 .dashboard{
     width:300px;
     margin-top:40px;
-    margin-bottom:100px;
+    margin-bottom:40px;
 }
 
 
