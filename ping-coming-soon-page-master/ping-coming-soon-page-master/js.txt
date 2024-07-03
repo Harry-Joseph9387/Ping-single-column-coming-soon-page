@@ -1,0 +1,4 @@
+1]every function follows name structure like a dd E vent L istener 
+2]to stop reloading,e.preventDefault(),e is event
+3]to get value from input element,e.target.querySelector('input').value,where e is the triggered event
+4]to execute a function corresponding to an triggered event,addEventListner
